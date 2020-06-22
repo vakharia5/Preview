@@ -1,16 +1,13 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import CardList from './components/CardList';
-import './assets/css/Style.css';
+import List from './components/List';
 
 function App() {
   return (
     <div className="App">
-   
-    <CardList/>
-   
-     
+     <List/>
+      
     </div>
   );
 }

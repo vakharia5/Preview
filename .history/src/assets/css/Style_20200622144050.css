@@ -1,0 +1,11 @@
+.card{
+    height: 20rem;
+    width: 15rem;
+    margin-right: 2px;
+    margin-top: 40px;
+}
+
+.cardImage {
+    height: 20rem;
+    width: 15rem;
+}

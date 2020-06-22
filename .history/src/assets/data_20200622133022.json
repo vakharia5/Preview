@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Explore",
+        "image": ""
+    },
+   {
+        "id": 2,
+        "name": "Pyramids",
+        "image": ""
+    },
+    {
+        "id": 3,
+        "name": "Discover",
+        "image": ""
+    },    
+    {
+        "id": 4,
+        "name": "Endless",
+        "image": ""
+    },
+     {
+        "id": 5,
+        "name": "Explore",
+        "image": ""
+    },
+    {
+        "id": 6,
+        "name": "Pyramids",
+        "image": ""
+       
+    },
+    {
+        "id": 7,
+        "name": "Discover",
+        "image": ""
+       
+    },
+    {
+        "id": 8,
+        "name": "Endless",
+        "image": ""
+    },
+  
+]
